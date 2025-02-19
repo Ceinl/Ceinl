@@ -1,6 +1,6 @@
 ## Hello there <sub>General Kenobi</sub>
 
-Im a Cein, developer intrested in software developing and a little bit in OS
+Im a Cein, developer from Ukraine, intrested in software developing and a little bit in OS
 
 ## My Skils
   - C# WPF developer
