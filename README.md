@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello there <sub>General Kenobi</sub>
 
-<!--
-**Ceinl/Ceinl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im a Cein, developer intrested in software developing and a little bit in OS
 
-Here are some ideas to get you started:
+## My Skils
+  - C# WPF developer
+  - Neovim Enjoyer
+  - Linux(wsl)
+  - Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My goals
+ - Learn rust in year(2025)
+ - Become succesful developer
+ - Learn how to understand shaders
+
+Feel free to check my repos
