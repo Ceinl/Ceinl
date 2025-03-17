@@ -9,8 +9,7 @@ Im a Cein, developer from Ukraine, intrested in software developing and a little
   - Docker
 
 ## My goals
- - Learn rust in year(2025)
+ - Learn go in year(2025)
  - Become succesful developer
- - Learn how to understand shaders
-
+ - 
 Feel free to check my repos
