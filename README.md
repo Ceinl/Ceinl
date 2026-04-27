@@ -13,3 +13,4 @@ Software developer, graduate of 2026
 
 ## Else
   - **[Pigeon language specification](https://github.com/Ceinl/Pigeon_language_spec)** - Specification for pigeon language
+  - **[Neovim config](https://github.com/Ceinl/nvim-config)** - Custom nvim config based on  [kickstart](https://github.com/nvim-lua/kickstart.nvim)
