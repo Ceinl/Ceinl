@@ -5,7 +5,7 @@ Software developer, graduate of 2026
 ## Cli
   - **[Pigeon interpreter](https://github.com/Ceinl/pigeon_interpreter)** - A interpreter for my custom programming language
   - **[Prun](https://github.com/Ceinl/prun)** - Cli to run multiline commands
-  - **[Go-dashboard](https://github.com/Ceinl/Go-dashboard) - A simple TUI dashboard
+  - **[Go-dashboard](https://github.com/Ceinl/Go-dashboard)** - A simple TUI dashboard
   
 ### Web
   - **[Rele](https://rele-one.vercel.app/)** - Learning helping web app
