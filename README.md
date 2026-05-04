@@ -1,7 +1,9 @@
 Software developer, graduate of 2026
 
 ## **Current Projects**
-
+### Active
+  - **[Storyline](https://story-line-nu.vercel.app/)** - Timeline for AI news *[repo to contribute](https://github.com/Ceinl/StoryLine)*
+  - **[Plums](https://github.com/Ceinl/plums)** - TUI AI Harness from scratch
 ### Cli
   - **[Pigeon interpreter](https://github.com/Ceinl/pigeon_interpreter)** - A interpreter for my custom programming language
   - **[Prun](https://github.com/Ceinl/prun)** - Cli to run multiline commands
